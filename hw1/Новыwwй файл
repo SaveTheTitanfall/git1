@@ -1,0 +1,53 @@
+¬ивести на консоль текст УI love C++!Ф;
+
+#include <iostream>
+
+#include <vector>
+
+#include <fstream>
+
+
+
+using namespace std;
+
+
+
+int main()
+
+{
+
+cout << "I love —++!";
+
+}
+
+2.Ќамалювати у консол≥ символом У*Ф пр€мокутний трикутник;
+
+#include <iostream>
+
+#include <vector>
+
+#include <fstream>
+
+
+
+using namespace std;
+
+
+
+int main()
+
+{
+
+cout << " *" << endl;
+
+cout << " **" << endl;
+
+cout << " ***" << endl;
+
+cout << " ****" << endl;
+
+}
+
+
+
+в файлах вижуал студио не мог найти , так что вот так здаю , дальше буду уже файлом
